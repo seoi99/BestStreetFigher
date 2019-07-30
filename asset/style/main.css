@@ -1,0 +1,78 @@
+#idle {
+  background: url('../sonicman.png') no-repeat -21px -238px;
+  width: 511px;
+  height: 97px;
+}
+
+#walk {
+	background: url('../sonicman.png') no-repeat -543px -239px;
+	width: 327px;
+	height: 95px;
+}
+
+#spin_Jump {
+	background: url('../sonicman.png') no-repeat -361px -349px;
+	width: 483px;
+	height: 114px;
+}
+
+#Power-1{
+	background: url('../sonicman.png') no-repeat -848px -337px;
+	width: 148px;
+	height: 125px;
+}
+
+#Power-2 {
+	background: url('../sonicman.png') no-repeat -21px -470px;
+	width: 844px;
+	height: 129px;
+}
+#Power-3 {
+	background: url('../sonicman.png') no-repeat -22px -645px;
+	width: 206px;
+	height: 80px;
+}
+
+#normal-attack {
+	background: url('../sonicman.png') no-repeat -243px -625px;
+	width: 235px;
+	height: 97px;
+}
+
+#power-smash-first {
+	background: url('../sonicman.png') no-repeat -485px -620px;
+	width: 461px;
+	height: 96px;
+}
+
+#power-smash-second {
+	background: url('../sonicman.png') no-repeat -19px -743px;
+	width: 495px;
+	height: 96px;
+}
+
+#power-smash-third {
+	background: url('../sonicman.png') no-repeat -516px -735px;
+	width: 162px;
+	height: 98px;
+}
+
+
+#power-smash-fourth {
+	background: url('../sonicman.png') no-repeat -680px -736px;
+	width: 187px;
+	height: 92px;
+}
+
+#jump {
+	background: url('../sonicman.png') no-repeat -400px -127px;
+	width: 505px;
+	height: 106px;
+}
+.margin-self {
+  margin: 42px 10px;
+}
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
