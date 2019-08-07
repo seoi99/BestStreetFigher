@@ -28,3 +28,32 @@ body > * {
     font-size: 50px;
     color: black;
 }
+
+.canvas-container {
+  display: flex;
+  background-color: #e8e8e8;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.instruction .fas {
+  border: 1px solid black;
+  border-radius: 2px;
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  padding: 0 5px;
+  margin-left: 5px;
+}
+
+.instruction li {
+  list-style: none;
+  margin-bottom: 5px;
+}
+
+.instruction h2 {
+  text-align: center;
+}
+.instruction {
+  text-align: left;
+}
