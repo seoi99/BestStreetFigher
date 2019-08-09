@@ -51,7 +51,7 @@ body > * {
   margin-bottom: 5px;
 }
 
-.instruction h2 {
+.instruction h2, h3 {
   text-align: center;
 }
 .instruction {
