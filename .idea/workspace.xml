@@ -6,15 +6,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121176ab-2dfb-4c51-a1a0-0fdc3d01e93d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/asset/ken/block.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ryu/stun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/vsMode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken/stunned.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/ken/stun.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_idle_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_kick.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_kick_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_moving.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_moving_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_punch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_punch_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_shot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_shot_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/character.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/character.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/enemy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/enemy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hpbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hpbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/input.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/music.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/player.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sound.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sound.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sprite.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,27 +37,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BestStreetFighter" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/BestStreetFighter.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectId" id="1PWDFySlHglKaEkzU7w4hAxblAf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/asset/ken" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/ryu" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/asset/ken" />
+      <recent name="$PROJECT_DIR$/asset/ryu" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565980858910</updated>
-      <workItem from="1565980861537" duration="173000" />
+      <workItem from="1565980861537" duration="17228000" />
     </task>
     <servers />
   </component>
