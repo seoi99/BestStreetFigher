@@ -6,30 +6,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121176ab-2dfb-4c51-a1a0-0fdc3d01e93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/ken/block.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ryu/stun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/vsMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ken/special_kick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ryu/special_kick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sound/block.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken/stunned.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/ken/stun.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_idle_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_kick.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_kick_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_moving.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_moving_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_punch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_punch_left.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_shot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken_shot_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/idle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_block.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_block_left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_stunned.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ken_stunned_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/ruy_shot.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/background.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/bullet.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bullet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hpbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hpbar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/input.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/input.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/player.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/sound.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sound.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sprite.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/vsMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/vsMode.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +60,7 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/asset/ken" />
       <recent name="$PROJECT_DIR$/asset/ryu" />
+      <recent name="$PROJECT_DIR$/asset/sound" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -88,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565980858910</updated>
-      <workItem from="1565980861537" duration="17228000" />
+      <workItem from="1565980861537" duration="28125000" />
     </task>
     <servers />
   </component>
