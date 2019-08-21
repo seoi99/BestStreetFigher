@@ -18,13 +18,17 @@
         <ul className="keyboard">
           <h2>Game Objective</h2>
           <p>1. <b>Training Mode</b></p>
-          <p>Kill many Ryu as possible in 60 second</p>
-          <p>Try to acheive best combo on your attack</p>
+          <p>Defeat the enemy Ryu</p>
+          <p>Try block and use special attack to get best score</p>
           <h3>Keys</h3>
           <ul>
-            <li> <i class="fas fa-arrow-left"></i>  Left <i class="fas fa-arrow-right"></i>  Right</li>
-            <li> <span class="fas">K</span> Attack</li>
-            <li><span class="fas">K</span> + <span class="fas">L</span> hadouken</li>
+            <li> <span class="fas">A</span>  Left  <span class="fas">D</span> Right</li>
+            <li> <span class="fas">T</span> Attack</li>
+            <li> <span class="fas">Y</span> Kick</li>
+            <li> <span class="fas">U</span> Special Key</li>
+            <li><span class="fas">T</span> + <span class="fas">U</span> Hadouken</li>
+            <li><span class="fas">Y</span> + <span class="fas">U</span> Special Kick</li>
+
           </ul>
           <p>2. <b>VS Mode</b></p>
           <p>In Progress</p>
@@ -32,9 +36,12 @@
           <p>Player 1 is same as above</p>
           <p>Player 2</p>
           <ul>
-            <li> <span class="fas">A</span>  Left  <span class="fas">D</span> Right</li>
-            <li> <span class="fas">T</span> Attack</li>
-            <li><span class="fas">T</span> + <span class="fas">Y</span> hadouken</li>
+            <li> <i class="fas fa-arrow-left"></i>  Left <i class="fas fa-arrow-right"></i>  Right</li>
+            <li> <span class="fas">J</span> Attack</li>
+            <li> <span class="fas">K</span> Kick</li>
+            <li> <span class="fas">L</span> Special Key</li>
+            <li><span class="fas">J</span> + <span class="fas">L</span> Hadouken</li>
+            <li><span class="fas">K</span> + <span class="fas">L</span> Special Kick</li>
           </ul>
         </ul>
       </div>
@@ -50,8 +57,8 @@
       </ul>
       <h1>By Jake Seo</h1>
     </section>
-
-    <audio id="myAudio">
+    <iframe src="./asset/sound/silence.mp3" id="audio" allow="autoplay"  style="display:none" title="testing"></iframe>
+    <audio id="myAudio"  autoplay controls>
         <source src="./asset/sound/backgroundmusic.mp3" type="audio/mp3">
     </audio>
 
