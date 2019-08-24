@@ -1,3 +1,9 @@
+
+
+@font-face {
+
+}
+
 .margin-self {
   margin: 42px 10px;
 }
@@ -7,7 +13,6 @@
 }
 
 body {
-  font-family: 'LATO';
 }
 body > * {
   text-align: center;
