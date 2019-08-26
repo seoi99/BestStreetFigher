@@ -6,30 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121176ab-2dfb-4c51-a1a0-0fdc3d01e93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FighterFont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/fight.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/h_kick.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/round.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/you-lose.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/you-win.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/youlose.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/sound/youwin.wav" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/style/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/enemy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/enemy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hpbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hpbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/player.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/sound.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sound.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/trainMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/vsMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/vsMode.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565980858910</updated>
-      <workItem from="1565980861537" duration="99331000" />
+      <workItem from="1565980861537" duration="101199000" />
     </task>
     <servers />
   </component>
