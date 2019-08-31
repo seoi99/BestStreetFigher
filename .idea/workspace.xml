@@ -6,22 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121176ab-2dfb-4c51-a1a0-0fdc3d01e93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asset/ken/fly_kick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ken/fly_punch.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ken/forward_jump.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asset/ken/jump.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/CustomSprite.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken/special_kick.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/ken/special_kick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken/stun.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/ken/stun.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/bullet.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/bullet.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/enemy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/enemy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/input.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/player.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sprite.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/trainMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565980858910</updated>
       <workItem from="1565980861537" duration="166247000" />
+      <workItem from="1567218875538" duration="765000" />
     </task>
     <servers />
   </component>
@@ -95,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
