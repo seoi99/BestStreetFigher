@@ -10,8 +10,6 @@
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/enemy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/enemy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/player.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sprite.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/trainMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1565980858910</updated>
       <workItem from="1565980861537" duration="166247000" />
-      <workItem from="1567218875538" duration="3757000" />
+      <workItem from="1567218875538" duration="5180000" />
     </task>
     <servers />
   </component>
