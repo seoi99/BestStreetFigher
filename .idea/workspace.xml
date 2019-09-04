@@ -6,125 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121176ab-2dfb-4c51-a1a0-0fdc3d01e93d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/01/da/5afe7037283bdd0b49af4db655965a0acc1f88bb2a7c001d3c670d4dd7080a0de461ac8af6c2c69e317459ad2df605fea3b9ee6ea9a7246e1a64743547fe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/02/72/652558ba48bdc4260e16f6ceabff7a6b52e125cc34239ad2ad2e7b9be9c605072b055640a36b645545e22ea56c34be5d6901be3cdef47edfb171da99d38f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/02/8b/6f4351bd1452ee06b14310d7ba48d51c94e4e6b50f8004eb0b05b1ca9962010f17e23c059276d6df329a21ceba4d504e3f62acc7bb7aa23d3445e86050f0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/09/e3/f558dc03abd907767710bf81e97000225a3177f2ca49ca2829b59980f5b5fe556025c390eabebcedcbe96e1d17a20c8ac28696833451d3d5a0a6078a3c05" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/0b/de/03c1e5badc1df6798a378f86f42a39cad6b76139f725522a3f1caf07689cc4e6795ada95dd563752f54d50428818da3e0519f8a0776162968ebbd665d467" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/1c/11/e533499efb1a264a4d2924b4439005aba13efa866f28d7807c0421f059f0c8d1e3db3686bf4dc7c383911b79eec144c295d169cbde9b48dd40e4bbddf7a4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/27/6e/7b19f3b721e17d9b7f23815387b3f68452dbe256a3846c5294bea7ecf262b2a686ade3a5a2a6ea6c35c42446779df693590608aab4fedabf48a683251a7c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/28/bf/83204efdc6b88bbfa654b5588b97230b1842a8d5e9bc9b3662d2a69d8b7248db974c58a33d9ba59df44cf06db39faeb1364f646dae0d564a691149860ea3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/28/f1/9f141b8dba0c0839fedc39a41c555ddfeddee742444c120cc9195a7952d9fc908662166ce01f8713ee4650713143cf9d456efa431fcc9edf687770c52e5d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/2b/f2/9f35751ee6607cea70891f0faedeff55d3e2a386b4e56cc2f91d5aab2d1d5a7064d380f10816e2c569da9a9430474f35f2bd4595e9f94117218abdc237db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/2d/7a/a2f991a8cdd59825842c7bd2e7d8c034d351ab7959cda4513a661011b4c73a95986414cd5c8784439d3fc68d3d2f45e22d9b4b4a4cf69165b725cd2dddeb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/35/49/5d87dd8d9238eb7edbeb7738afcd76464bff53e91a3cfbd15f8e1e048eb3a90eb00870a355eb39b075bf67fcb943aaeb506e921f1f16ea7f9dc8b6dae4f2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/3e/11/ae89865fe0fd73851338bfc379b8271ddc8109eb16a6f4a2acff40a881604dc5cf844acd680231fd9be5b5a6ffccf8b697620bc3da35e44b7dfe1f000cfb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/3e/5b/f301608283715a798800f1b362c5be91f488770606f0fcece0cd512f214f414b8e7a3e98bed437b0e56027f88d5ebda4c6bf02d2a8f2ad8ad19794d780e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/42/78/08b41e0e9c8dcb6eb0857b90c3c15bd09790abfe02c87eef5493b4c6338a4f2781e8e12bdcc5fff655e1239fc2faedacee0814bd36c5a8b914ed89489d84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/45/da/c17a0893dd0e984294247029a59c7a48ff7f18ea3f38a4cbd788ab4f90bfa160de0aec9da22471901745f0fabb99ddee6b18129f9bd490b13f745d4cd4c6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/52/36/83fb1d3f723399ff182492b9a0c23fb7caa3c424c6c9a70ce9ea6c12a61f27c2583173f9c729610481836032f22a761d8ac835bcbd5167fe8f05edaa74df" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/53/4d/b1e93a87b4ab5160fe917918816344ff44f4f2b5ffa350619dd665bae7ae932dbad2ffb6093e0391056ff66efaa478483d1183469a051ef9a5324fd6c77d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/56/fa/3045f0725676bf8cb083df3b963a6456c6ceb1a3c1c9c2198a56d9d292e1ebb460423ab30fa8a985d72d95f9ca3387856e0f1fc391f573187076b84e7469" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/5d/68/ededbb1bfd848beb90999be153e4002687d726cb99d3df5a0f793fc2a8712fdd33946c61f841de6087f1fa7134a3ab4999ba978841c20b00e75aa9fcfaa3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/60/75/a9ad66dab84fc1d7e8d4373c215c06ca8f16af15252e69308359fa2437b78430e90621af0ebbede363fcba66f0c1ae96f8dd81ccd1aca8c4a8cf37282abe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/60/a2/bcc95611618387d461e69f9eb340e2e35a82409c8b62b33ec09be67561a58c36d48c0b3398c3def8c7ae79cb43ff99f72e495963019b6d33b4b57977ff09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/64/b1/cb5b09a5b1b5f54b11077ef9bba0ec558bfb08ea0513e81b260ba460d10beeae316c7928e9905f47bb320b9238349dc541a7654382d04cc3f0a1dea95888" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/70/00/b46a6b6a30a4ad8a2077f12daa30c3a8e3c5fc2132b14e4976e48e0932c1d3f5c8fae62e8ca52e7b4cc6f9c178aff7be94a5fa4bb82f406b950384523101" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/71/19/3dffc15d9cf5780d08a59ce7a545b41e9ecfcbdb1ec57ac5675b397f5df7af8cf5eec0c72b928661474aea8990718471a87404f561c298079c96966e8898" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/7e/2a/bfa484738f35f06b061b5b91e2a63c2ed52c8d4ba3c920620aa2041bdb7b47bea70c3587965e645744d205c8a464215cfa4119aae23cde66435da7ee3c3e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/81/e1/171a3ba75976eeed2473525b27d21b04847a01426b91b83932789e41ed9b8b2fbdfd232e8ad0a8a86d7d9e44fa2e05fdef6622c83273a6659fa23eda4d0e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/87/fe/d920c18fea8913420b9fd902f33cb7d7754c677594e75a2a39a992b2f9874bddd241325dba287dd6f9aa997011a6c3a1775adc4781c6bf3fcfc419b92f2d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/89/5f/091f218bb94edea1047e56361926ccff1de87a8e324f8046564cfee6d2830e1d0a8af593ac16ed2b585eb6a3d985158d311d268a73a575279835d3681fc3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/8a/97/a4442fbaacfe86c62b1753504ccaf0ffed9af1b2073477de78e1db46135096d099adbe014dd02584b1e25bd7f7a917c4d8b3eeed5629e3d5aa9d8ea1d011" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/8f/03/08a8a4c59ff7a9ae2f7d30326129a5c39c74ee8f0c74ca1e2492c61fb56b430827c79b5d40dd12cd7cd19bef6b2bcfa4e7af1e44b96964d9da899d111c46" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/92/98/939fa7b22f121dbf5c818b3876e42796266344a855c070323e9f2d1a7cee5f5233807eedab8f9d3ac136a751f9796a2aa6c4b1e672645a81e52903e5f4cd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/97/58/b96ccc760868f8dfc8b6a588112a55e541711b15f02897592c15a7b0b1618a395c3b1ebffecd4141032769f5db80e9280e3f73eccce90bacec7cf924718c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/9d/56/e22052fd31a402911136b5dc9e5eda0da090d3567994e3122a3a9de0221996c56b52766cbd67feb29d4100ffe9e5fab7ea292b658f85772aebf6ad16729d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/a1/2b/23a634dc1a64c24ff5adb9997bf0f8ab4d60e196af4e51b3c93271027fc2e6d7637f8366e5f23c3937f09c3986b5535dc210386c9d3a8c2226e31b282724" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/b2/64/a3d59929a242381d4552622c5bb72b7eec761bbc9e54add44e1387936e5b619c00740e3aa6d262d9fa1bd931a3fdac0aa45ddda2b014a322ed73bf38994b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/b4/07/389b02acb1d2491796cf676c083dafe4d30d84c4ab5d63ad1681aa1311318145d1e66321a62aa9e4a76248d4e312877f59cc8a7cc2a97dd3a2d8056e9e84" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c6/36/09298c0146060d022ef9de2eb44182afc443099b911550adf991269afa16acf2ff95f990682fddb85670574b1f20897dd5fae22a527b64373c7105283610" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/c8/29/df4b133f2c95195b4e7b95d9c2b942c783b10625e22e9241fd8be5873f10603027b8ef517c1822bd0c1b8e36e9c4c704630591af54012bf70be4727b5771" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/ca/cf/314bcaf88dc21dc4bc21914a3bdcfed0bde456380e6b999ef1446d8f747ccf9e911126cf65e3ff7b7da8a4a4b3018d73d44957befc9d15fcb3f5db18bc78" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/ce/7d/d435ebb6f95c51b3d73a1cec07dd02694729583da0deb4e4a49bdc553f94fbf9cf84e5aedd973a655c0983f4a29449d862b3557832df784fc59ba5a669db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/d0/5e/41c1c5edd49ab76c5de95d25df04862fc1479e8b348ac1745e2c39b43af1ea35fb1081f00a7c70c8a2cff5f823b1cd0c6eddc6e874a6cda5f22c875fd260" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/d5/f7/96e4baf620fd22e2784280dd8fb5b6ec8aa3ee8b43d399e01c074892950d747709d693fb831758220b07fa041628a0be3b0dda93cb44e1b3bf892b54b22c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/d6/4b/b3eeeec555e8f8043110f56798137359ca6c1e8c23fa0b3c48a43ff5a761f129b437e59ddfdb44e801cfaeab5021a0d8a6b0904189ef1c3222880534a721" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/d9/76/3abd4a64517328035612511b817856e43849f89fde9c0247ecc31f3f17f67ca1ccc3c5eeb48f70920c798bd1e84f74c2147b287185b4f4fe2dca6526d54e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/d9/92/b5c33ceef3fe14faa0664b1f1b75061db0370cee77f4878f3c60aa4e092fb5208b81303b50f8b78b58b3bf67bef90468d4972487ae8c01da6dfa0db300d0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/dd/ef/555cdbf0d27514e264c3ab8f1fbf8ca71e1dd90096f06cd24805d8c9feb3d4f0f672c5fc06541b0799602fa8745e8bbd0af1bbe53151c53f8c2245c5ab06" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/df/4e/9308663a1a332003e7cdf1574933f6fb54ef613338f2460f49db8e8e167946f5c720e8cb24eb1c8b3de7bf29efd5bca6d4eabfdab0ab4202c9b7a4a2f4a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/df/e6/25c927bf581bcd708dbb464a16c24680b42dc02287bba054bc2a6d4b0b707b595e40f43cc832375b71ad3971df9d252c532f827c7d4292833f7c6668cdb6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/e5/95/8b60f6da69f158031fd1b038968ca1a859a67b1497ab1fb182bb3a203906025450850f7ac630abb3b16e76831aa97a1d9618ed46513183c0b90a37b0875f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/ef/11/386ee8205df2b0a4601f4b698122de715093c4f0cfb3ad03e4b306cf744b399a9e4f529a5ec2f246614563b3d5706b49deb272196421740e026870ca89b2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f5/84/bd5dcbb6642359b2ba5701ebd512cbffac41239ac2f9698e555aa49d880aa4ff992aefbae553493d48a27a626a0a457bb8a2f04a60b65c3d7de333a5804c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f8/00/24fefa8eff12f72875722e53356633b2f447988ce51a3905bb3c63cd9b57bb9c5ae92c5497a04d317c440a984aad30ffc6fcf2e1e4157d086714412395d3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/content-v2/sha512/f8/3d/aac958090d8b31217fdf5f21ed314a1db6dbdee3c3fedb8eea020f790624db3134e7689f5a1e3fe7c07b81179450b808a73d0098de66ce9da021c879af69" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/02/df/862ba3c2e6c8ca886770c50b57f011d980ade7ec2f19123cdee3841b64e7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/08/3a/26c3426434fc7b49b9867f7f8adf8469ae6be28213034922c8b4ae25d18c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/0e/99/70d8164cf25a03688c993f536a8a68c8c7e705637473fc994b25bd0debba" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/0f/22/b29d4ac783580c988244ea78b71975b1200b57fe3f902bd0521455e9aec8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/10/f7/bc83ff4d9d28eddedd43717b8cf0f2a700f8ee81c277b017a9aa98023380" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/12/88/a4dcf4c7959778275063a5a97daf977be67d450d963f1b0836ec4615e76f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/15/ad/c44e756b52bf69788eaf8f65b9805579f1e1323fc3f6986ffea134f6b3f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/17/e8/892e214a0b0155a766061584dd4edde72c459267aa1fbe52495fa6fc7ede" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/1f/07/57bb8f8136a6a1b66aa7b6c5ce0813f2afc33ca6ccf2db6e521b5ec37a0d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/27/ef/beae1bfc82f623ba747a705af6b548aaf16363efc89a5fac61722428efd6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/28/8a/0c6a4d877127e6b2ba32a6f4be6b1d5412d7dfe24e48ce4efa91cfd3c37b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/28/95/2ceb1873fad7d8690f363bf651099c79f160fd847adae8ad18b87a71ed5b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/29/e5/aa5e0cefbd3c50913382cece0b03eab2a3b8c0df418f786881f1e7e339b3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/2a/5a/56e0fcf903fa264a075e8b74b411029235e6636341b4e6d2f23d80948e06" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/34/02/d580f32cdd195d4a3abcc3dcdbca1c2ec41bf5fb48ee0675c1541c8c83aa" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/39/25/5e231cd2d21c7beeb64fdb6500704d53b36ce025019282f368a23ab4c5d3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/3e/97/0c7275a854d6d69b4788e662c406775b183865d0c91374a7bd13bb190527" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/42/8e/54cbc1112a5ee148908f0b05d899028fe6b15c00fe25ec171c27512d990f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/43/ac/23af3859fe8764ec84b8b5f7ca542ad4a56b27a488331835c471fec5b783" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/50/9b/f9ceb4db7d421d98bd79f009b51f492cf59e0c9e0b14d81faf6e065704f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/51/bc/c12f79c39c830b079c11c077ac8a99ba79b9acb087d88d2f01144b757e94" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/52/dd/85d39f2af53c8f6c81eba3f6a7be0ea66d225b2db09c731954fd56954991" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/59/ad/40dd92ee520c29a83d38c80ea500cefe55f7d3400634ced18c9c1e390dbe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/5a/5b/3b82b184df4fbfdfd5d93998b888db6a25b12612c454bf1cd61fc96e522f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/67/34/d29fb593483a39eef687bf259743913f3e0756d8c1c4d8a0b5a225b29b9e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/6f/11/108cb814a5fa52e6ca5830dfb363cff4f5266d0358eef60dc0d8f747906c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/77/71/00cdb84ac0b982f7252e60c27a3db881aa9ed74462923e2842630f2467ea" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/7d/de/522721e5e2229c0bd2d676e2602984501d7d764abee7cdbf84f842e82e3a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/81/f2/a44b66cfff7d68fd562bf26fabe5f94d7e917e4b4d1197681191e295aeb2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/85/f6/dd2608e13c3862037e77ef1476cbe43b3600ed57a4c918e5c03c574b815c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/8b/4c/53c0be0e070e02c698aceb7eb347f7be73992b9b4e2cbe4960dabfca8bbb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/8f/23/9b0514198a581fdfd9ab7515652023b4e7a28d6763ffd5f3a9b747cf097f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/94/1c/668c4ecf7bf33a734978c9f0be67e766c0cead89f6208dc3dac5dbee6014" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/a1/2b/b6d2f77c7900befc05420a7f2ceb823be0200b4e6699f41ec76a82250694" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/a6/85/2b1f32cd648e0edc472ecdd0d2f32bc0b6861d04411712c26d79eb106e10" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ad/c1/fb6ff462f5bdc676208191772a144414fb2eb7d916d00e4f69cde3fa3dcb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ae/bb/2bda0fe0bdea3303224872b4da475e439acf5691c25554f6c77612185db3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b1/9d/e73aea96813f76657b08f09fc3ae8e513ac46b48b5392175ef60b310f0a3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b5/16/d83f4ade53d6ccbe05cba1a485f8ae1e744ea55c790edbcce11eaab47ac5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b5/25/e44a93012a551f64e108706806fb67333e854cffe8228c31a3f92c2b933a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b6/72/2362d0427f731ef4fa089e02f183e271e11269fb11cc2426c02440d303c5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/b6/95/5f39708a5e1e7e623ce08d7015ca39c8b2611b27f181b9407c576fdacb4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/be/bf/ac917800cc8c1c53132273e28a6aadf2af238563ea2ccd0de71df97d5c25" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/c3/82/4f6a3b0267a30fbd640a1944aef5cec907d85daa1ea1b2b9353e6a26cadb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/c7/e7/bc50960e357f2849956ff41a1c09739824e2b637911e226020dfaa0b8f7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/c9/47/9ecb53a19d1af4931d5cdeb9f0f8aea182327850866e435be88a281e65a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/d0/7c/a92fc5fc653392408943308f09ea0120e312340b282ce5891b874089b06f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/e2/3e/f6044d352e953e047ff4006c7b3a909e3be759f580bfda8b17bf44c5d7cd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/e6/e0/ffad73edc55051eaa0ee711086772a3a7362050b21efa744d51c1d779b7b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/e8/69/b900387e48c7d275cd9d82791e3fbb5b53189ef772cf3a2ee1e2584254f9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ec/d4/80122e8e0f2201b7dba267490e339512e46fefe426f463d578b4bde38027" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/ed/2c/3802b14174220bb572f92f6c0689a0c14f68f62a7a7b4dddfd6fdfc788b1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/f1/62/c158eeefcf2c65771b7a557aefd3b254250865c80e94ddb98a40b9f5347a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/.cache/terser-webpack-plugin/index-v5/f8/80/800e410b2289caec586f17196169a97c44466c7aa902f2916d9767727a9a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/ken/fly_kick.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/ken/fly_kick.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/enemy.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/enemy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hpbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hpbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/input.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/player.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/player.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/sprite.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/sprite.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/trainMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/vsMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/vsMode.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +74,7 @@
       <updated>1565980858910</updated>
       <workItem from="1565980861537" duration="166247000" />
       <workItem from="1567218875538" duration="5180000" />
-      <workItem from="1567554295815" duration="16242000" />
+      <workItem from="1567554295815" duration="16836000" />
     </task>
     <servers />
   </component>
