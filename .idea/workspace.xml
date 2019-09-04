@@ -6,12 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121176ab-2dfb-4c51-a1a0-0fdc3d01e93d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/lib/bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/lib/bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/game.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/trainMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/trainMode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/vsMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/vsMode.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +33,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -74,7 +71,7 @@
       <updated>1565980858910</updated>
       <workItem from="1565980861537" duration="166247000" />
       <workItem from="1567218875538" duration="5180000" />
-      <workItem from="1567554295815" duration="16836000" />
+      <workItem from="1567554295815" duration="17470000" />
     </task>
     <servers />
   </component>
